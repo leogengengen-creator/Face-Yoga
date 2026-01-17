@@ -1,0 +1,21 @@
+{
+  "short_name": "FaceGlow",
+  "name": "FaceGlow Yoga",
+  "icons": [
+    {
+      "src": "https://api.iconify.design/lucide:sparkles.svg?color=%23ec4899",
+      "sizes": "192x192",
+      "type": "image/svg+xml"
+    },
+    {
+      "src": "https://api.iconify.design/lucide:sparkles.svg?color=%23ec4899",
+      "sizes": "512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#fdf2f8",
+  "orientation": "portrait"
+}

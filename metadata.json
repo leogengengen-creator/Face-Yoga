@@ -1,0 +1,8 @@
+{
+  "name": "Copy of FaceGlow Yoga",
+  "description": "A 3-day MVP Face Yoga app with courses, selfie tracking, and community features.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
